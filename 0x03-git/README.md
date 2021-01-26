@@ -1,1 +1,1 @@
-Tasks of git
+Tasks of git update from interface
